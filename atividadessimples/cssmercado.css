@@ -1,0 +1,8 @@
+.itens{
+  width: 100vw;
+  height: 100vh;
+  display:inline-block;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  }

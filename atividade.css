@@ -1,0 +1,43 @@
+
+
+.container {  
+  padding-top: 30px;
+}
+
+img {
+  border: 1px solid rgb(128, 107, 107);
+  width: 100%;
+}
+.pratos{
+ text-align: center;
+ color: rgb(71, 81, 168);
+}
+.navbar-brand{
+  color: aquamarine;
+}
+.restaurante{
+
+  color: rgb(31, 37, 93);
+}
+.artesanal{
+  color: rgb(71, 81, 168);
+}
+.cachorro{
+  color: rgb(71, 81, 168);
+}
+.batata{
+  color: rgb(71, 81, 168);
+}
+.mb-3{
+  color: black;
+}
+.figura{
+  padding-right: 500px;
+  padding-top: 30px;
+  margin-right: 100px;
+  max-width: 100px; max-height: 5px 
+}
+.carousel-inner > .carousel-item > img {
+  width: 600px;
+  height: 600px; 
+}
